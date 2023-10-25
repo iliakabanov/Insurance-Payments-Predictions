@@ -1,5 +1,5 @@
 # Insurance-Payments-Predictions
-In this project we need to predict customers' medical insurance payments based on their persoanl data (age, sex, place of living, etc.) I used two ML models to tackle this problem: KNN and RF.
+In this project we need to predict customers' medical insurance payments based on their personal data (age, sex, place of living, etc.) I used two ML models to tackle this problem: KNN and RF.
 
 Steps undertaken with KNN model:
 * Label Encoding
