@@ -11,3 +11,4 @@ Steps undertaken with Random Forest model:
 * Hyperparameter tuning through Bayes Optimization
 * Cross Validation
 
+Conclusion: Results obtained from Random Forest are rather worthwile, while KNN didn't demonstrate equally impressive perfomance.
